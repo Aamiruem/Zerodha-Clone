@@ -9,17 +9,17 @@ import OpenAccount from '../OpenAccount';
 import Footer from '../Footer';
 
 function HomePage() {
-    return ( 
+    return (
         <>
             <Navbar />
-        <Hero />
-        <Awards />
-        <Stats />
-        <Pricing />
+            <Hero />
+            <Awards />
+            <Stats />
+            <Pricing />
             <Education />
             <OpenAccount />
             <Footer />
-            </>
+        </>
     );
 }
 
