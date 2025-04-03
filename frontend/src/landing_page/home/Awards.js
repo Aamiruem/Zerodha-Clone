@@ -1,8 +1,7 @@
-import react from 'react';
+import React from 'react';
 function Awards() {
-    return ( 
+    return (
         <h1>Awards</h1>
     );
 }
-
 export default Awards;
